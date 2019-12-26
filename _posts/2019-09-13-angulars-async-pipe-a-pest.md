@@ -41,4 +41,4 @@ I cant share Code samples of the real deal, as it is property of the company i w
 As the repo is really basic, the problem basically doesnt exist there - but you can take a look at both implementations and try it out in your app.
 You found this post, so you are probably looking for something i described, right? ;)
 
-You can look at the repo here: https://github.com/nlappe/dev-life_2019-09-13-angulars-async-pipe-a-pest
+You can look at the repo here: [https://github.com/nlappe/dev-life_2019-09-13-angulars-async-pipe-a-pest]
